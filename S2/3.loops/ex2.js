@@ -8,5 +8,5 @@ const alien = {
 }
 
 for (const key in alien) {
-    console.log(alien.key)
+    console.log(alien[key])
 }
